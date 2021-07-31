@@ -46,6 +46,8 @@ buildNumber.properties
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+*.iml
+.idea/*
 
 # Generated files
 .idea/**/contentModel.xml
